@@ -3,7 +3,7 @@ name: Snowflake Connection Test
 on:
   push:
     branches:
-      - main
+      - dev
 
 jobs:
   test-snowflake-connection:
